@@ -1,0 +1,6 @@
+product_id,product_key,product_name,category,product_line,spec,color,unit_price,unit_cost,weight_kg,Img
+1,BLU-G33-64-BLK,BLU G33,Smartphone,Budget,64GB,Black,120,80,0.18,img
+2,BLU-G53-128-BLU,BLU G53,Smartphone,Budget,128GB,Blue,150,100,0.19,img
+3,BLU-G73-256-SLV,BLU G73,Smartphone,Mid,256GB,Silver,220,150,0.2,img
+4,BLU-BOLD-128-BLK,BLU Bold N2,Smartphone,Mid,128GB,Black,250,170,0.19,img
+5,BLU-STUDIO-64-WHT,BLU Studio X,Smartphone,Budget,64GB,White,130,90,0.17,img
