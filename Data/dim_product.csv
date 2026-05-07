@@ -1,6 +1,23 @@
 product_id,product_key,product_name,category,product_line,spec,color,unit_price,unit_cost,weight_kg,Img
-1,BLU-G33-64-BLK,BLU G33,Smartphone,Budget,64GB,Black,120,80,0.18,img
-2,BLU-G53-128-BLU,BLU G53,Smartphone,Budget,128GB,Blue,150,100,0.19,img
-3,BLU-G73-256-SLV,BLU G73,Smartphone,Mid,256GB,Silver,220,150,0.2,img
-4,BLU-BOLD-128-BLK,BLU Bold N2,Smartphone,Mid,128GB,Black,250,170,0.19,img
-5,BLU-STUDIO-64-WHT,BLU Studio X,Smartphone,Budget,64GB,White,130,90,0.17,img
+1,BLU-G33-64-BLK,BLU G33,Smartphone,G Series,64GB,Black,179.99,119.99,0.18,https://welectronics.com/images/stories/virtuemart/product/BLUG33blk2.jpg
+2,BLU-G53-128-BLU,BLU G53,Smartphone,G Series,128GB,Blue,249.99,169.99,0.19,https://cdn1.smartprix.com/rx-iQvA9qiPw-w420-h420/blu-g53.webp
+3,BLU-G73-256-SLV,BLU G73,Smartphone,G Series,256GB,Silver,349.99,239.99,0.2,https://m.media-amazon.com/images/I/41kX-JkQDjL._AC_SR400_.jpg
+4,BLU-BOLD-N2-128,BLU Bold N2,Smartphone,Bold Series,128GB,Black,429.99,289.99,0.21,"https://m.media-amazon.com/images/I/810fLp-xrYL._AC_UF894,1000_QL80_.jpg"
+5,BLU-STUDIO-X-64,BLU Studio X,Smartphone,Studio Series,64GB,White,199.99,129.99,0.18,"https://m.media-amazon.com/images/I/91b8BAlw9iL._AC_UF350,350_QL80_.jpg"
+6,BLU-G90-PRO-256,BLU G90 Pro,Smartphone,G Series,256GB,Gray,479.99,329.99,0.22,https://cdn1.smartprix.com/rx-iuPDwGaY4-w1200-h1200/uPDwGaY4.webp
+7,BLU-VIEW3-128,BLU View 3,Smartphone,View Series,128GB,Blue,299.99,209.99,0.2,https://fdn2.gsmarena.com/vv/bigpic/blu-view3.jpg
+8,BLU-SPEED-5G-256,BLU Speed 5G,Smartphone,Speed Series,256GB,Black,399.99,269.99,0.21,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bAXpAV2sQNVS3j2JRlyJP4CUcLCwaFhdWQ&s
+9,BLU-FLEX-128,BLU Flex,Smartphone,Flex Series,128GB,Green,269.99,179.99,0.19,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZfvEybJOb4rBkl9R-0VFK_vktNs_jTU8SA&s
+10,BLU-A140-64,BLU A140,Smartphone,A Series,64GB,Black,99.99,59.99,0.17,https://shoplibertystore.com/cdn/shop/files/blu-a140-4g-cellular-phone-576093.jpg?v=1731769964&width=1445
+11,BLU-M8L-64,BLU M8L,Tablet,Tablet Series,64GB,Gray,219.99,149.99,0.38,https://fdn2.gsmarena.com/vv/bigpic/blu-m8l.jpg
+12,BLU-M10LPRO-128,BLU M10L Pro,Tablet,Tablet Series,128GB,Black,329.99,229.99,0.45,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-FkOf8x-dDX2zn3Q23SXWOMa9OHBzjkzEQ&s
+13,BLU-M10LPLUS-128,BLU M10L Plus,Tablet,Tablet Series,128GB,Silver,399.99,279.99,0.48,https://m.media-amazon.com/images/I/719bNp5AY7L.jpg
+14,BLU-ARIA1-SPK,BLU Aria 1,Audio,Aria Series,Bluetooth Speaker,Black,39.99,18.99,0.35,"https://m.media-amazon.com/images/I/81YsSh8Ty2S._AC_UF894,1000_QL80_.jpg"
+15,BLU-ARIA2-SPK,BLU Aria 2,Audio,Aria Series,Bluetooth Speaker,Blue,59.99,29.99,0.42,"https://m.media-amazon.com/images/I/819cZpZrzTS._AC_UF1000,1000_QL80_.jpg"
+16,BLU-ARIAPOD-TWS,BLU Aria Pod,Audio,Aria Series,True Wireless Earbuds,White,49.99,22.99,0.05,"https://m.media-amazon.com/images/I/61S0CXc3BiS._AC_UF894,1000_QL80_.jpg"
+17,BLU-ARIAPODPLUS-TWS,BLU Aria Pod+,Audio,Aria Series,True Wireless Earbuds,Black,79.99,39.99,0.06,https://www.bluproducts.com/lifestyle/aria-pod-plus/images/m-aria-pod-plus-9-case.png
+18,BLU-CHARGER-25W,BLU Charger 25W,Accessory,Charging,25W,White,19.99,6.99,0.08,"https://m.media-amazon.com/images/I/413YAhITSpL._AC_UF1000,1000_QL80_.jpg"
+19,BLU-CHARGER-45W,BLU Fast Charger 45W,Accessory,Charging,45W,Black,34.99,11.99,0.1,"https://m.media-amazon.com/images/I/41PqkJtsWkL._AC_UF350,350_QL50_.jpg"
+20,BLU-USB-CABLE,BLU USB-C Cable,Accessory,Accessories,USB-C,Black,9.99,2.99,0.03,"https://m.media-amazon.com/images/I/415fo1dJjmL._AC_UF1000,1000_QL80_.jpg"
+21,BLU-CAR-CHARGER,BLU Car Charger,Accessory,Accessories,Dual Port,Black,24.99,8.99,0.09,"https://m.media-amazon.com/images/I/51XEOKSq26L._AC_UF1000,1000_QL80_.jpg"
+22,BLU-POWERBANK-10K,BLU Power Bank 10000,Accessory,Accessories,10000mAh,Blue,49.99,24.99,0.25,https://d57avc95tvxyg.cloudfront.net/images/detailed/2142/10000mah_power_bank_by_maxbhi_1_colors_may_vary.jpg?t=1511710135

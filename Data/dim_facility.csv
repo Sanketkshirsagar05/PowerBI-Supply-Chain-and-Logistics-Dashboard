@@ -1,4 +1,9 @@
 facility_id,facility_key,facility_name,country,city,facility_type,specialization,annual_capacity
-1,FAC-CN-SHZ,Shenzhen Plant,China,Shenzhen,Manufacturing,Smartphone,500000
-2,FAC-VN-HCM,Vietnam Plant,Vietnam,HCM,Assembly,Smartphone,300000
-3,FAC-IN-PUN,Pune Assembly,India,Pune,Assembly,Smartphone,200000
+1,FAC-CN-SHZ-01,Shenzhen Manufacturing Hub,China,Shenzhen,Manufacturing,Smartphones,850000
+2,FAC-CN-GZH-02,Guangzhou Component Center,China,Guangzhou,Component,Components,500000
+3,FAC-VN-HCM-03,Vietnam Assembly Plant,Vietnam,Ho Chi Minh,Assembly,Final Assembly,600000
+4,FAC-IN-PUN-04,Pune Assembly Unit,India,Pune,Assembly,Regional Assembly,350000
+5,FAC-US-TEX-05,Texas Distribution Center,USA,Dallas,Distribution,North America Logistics,900000
+6,FAC-US-MIA-06,Miami LATAM Hub,USA,Miami,Distribution,LATAM Logistics,650000
+7,FAC-MX-MEX-07,Mexico Service Center,Mexico,Mexico City,Service,Repair & Service,150000
+8,FAC-BR-SAO-08,Brazil Warehouse,Brazil,Sao Paulo,Warehouse,Inventory Storage,400000
