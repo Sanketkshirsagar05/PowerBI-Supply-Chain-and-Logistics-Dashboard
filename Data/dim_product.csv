@@ -12,12 +12,12 @@ product_id,product_key,product_name,category,product_line,spec,color,unit_price,
 11,BLU-M8L-64,BLU M8L,Tablet,Tablet Series,64GB,Gray,219.99,149.99,0.38,https://fdn2.gsmarena.com/vv/bigpic/blu-m8l.jpg
 12,BLU-M10LPRO-128,BLU M10L Pro,Tablet,Tablet Series,128GB,Black,329.99,229.99,0.45,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-FkOf8x-dDX2zn3Q23SXWOMa9OHBzjkzEQ&s
 13,BLU-M10LPLUS-128,BLU M10L Plus,Tablet,Tablet Series,128GB,Silver,399.99,279.99,0.48,https://m.media-amazon.com/images/I/719bNp5AY7L.jpg
-14,BLU-ARIA1-SPK,BLU Aria 1,Audio,Aria Series,Bluetooth Speaker,Black,39.99,18.99,0.35,"https://m.media-amazon.com/images/I/81YsSh8Ty2S._AC_UF894,1000_QL80_.jpg"
-15,BLU-ARIA2-SPK,BLU Aria 2,Audio,Aria Series,Bluetooth Speaker,Blue,59.99,29.99,0.42,"https://m.media-amazon.com/images/I/819cZpZrzTS._AC_UF1000,1000_QL80_.jpg"
-16,BLU-ARIAPOD-TWS,BLU Aria Pod,Audio,Aria Series,True Wireless Earbuds,White,49.99,22.99,0.05,"https://m.media-amazon.com/images/I/61S0CXc3BiS._AC_UF894,1000_QL80_.jpg"
-17,BLU-ARIAPODPLUS-TWS,BLU Aria Pod+,Audio,Aria Series,True Wireless Earbuds,Black,79.99,39.99,0.06,https://www.bluproducts.com/lifestyle/aria-pod-plus/images/m-aria-pod-plus-9-case.png
-18,BLU-CHARGER-25W,BLU Charger 25W,Accessory,Charging,25W,White,19.99,6.99,0.08,"https://m.media-amazon.com/images/I/413YAhITSpL._AC_UF1000,1000_QL80_.jpg"
-19,BLU-CHARGER-45W,BLU Fast Charger 45W,Accessory,Charging,45W,Black,34.99,11.99,0.1,"https://m.media-amazon.com/images/I/41PqkJtsWkL._AC_UF350,350_QL50_.jpg"
-20,BLU-USB-CABLE,BLU USB-C Cable,Accessory,Accessories,USB-C,Black,9.99,2.99,0.03,"https://m.media-amazon.com/images/I/415fo1dJjmL._AC_UF1000,1000_QL80_.jpg"
-21,BLU-CAR-CHARGER,BLU Car Charger,Accessory,Accessories,Dual Port,Black,24.99,8.99,0.09,"https://m.media-amazon.com/images/I/51XEOKSq26L._AC_UF1000,1000_QL80_.jpg"
-22,BLU-POWERBANK-10K,BLU Power Bank 10000,Accessory,Accessories,10000mAh,Blue,49.99,24.99,0.25,https://d57avc95tvxyg.cloudfront.net/images/detailed/2142/10000mah_power_bank_by_maxbhi_1_colors_may_vary.jpg?t=1511710135
+14,BLU-ARIA1-SPK,BLU Aria 1,Audio,Aria Series,Bluetooth Speaker,Black,39.99,18.99,0.35,https://www.bluproducts.com/wp-content/uploads/2023/08/Aria1.png
+15,BLU-ARIA2-SPK,BLU Aria 2,Audio,Aria Series,Bluetooth Speaker,Blue,59.99,29.99,0.42,https://www.bluproducts.com/wp-content/uploads/2023/08/Aria2.png
+16,BLU-ARIAPOD-TWS,BLU Aria Pod,Audio,Aria Series,True Wireless Earbuds,White,49.99,22.99,0.05,https://www.bluproducts.com/wp-content/uploads/2023/08/AriaPod.png
+17,BLU-ARIAPODPLUS-TWS,BLU Aria Pod+,Audio,Aria Series,True Wireless Earbuds,Black,79.99,39.99,0.06,https://www.bluproducts.com/wp-content/uploads/2023/08/AriaPodPlus.png
+18,BLU-CHARGER-25W,BLU Charger 25W,Accessory,Charging,25W,White,19.99,6.99,0.08,https://m.media-amazon.com/images/I/61M1M4G8fHL._AC_SL1500_.jpg
+19,BLU-CHARGER-45W,BLU Fast Charger 45W,Accessory,Charging,45W,Black,34.99,11.99,0.1,https://m.media-amazon.com/images/I/61vJtKbAssL._AC_SL1500_.jpg
+20,BLU-USB-CABLE,BLU USB-C Cable,Accessory,Accessories,USB-C,Black,9.99,2.99,0.03,https://m.media-amazon.com/images/I/61nPiOOv9BL._AC_SL1500_.jpg
+21,BLU-CAR-CHARGER,BLU Car Charger,Accessory,Accessories,Dual Port,Black,24.99,8.99,0.09,https://m.media-amazon.com/images/I/61Y30DpqRVL._AC_SL1500_.jpg
+22,BLU-POWERBANK-10K,BLU Power Bank 10000,Accessory,Accessories,10000mAh,Blue,49.99,24.99,0.25,https://m.media-amazon.com/images/I/71lVwl3q-kL._AC_SL1500_.jpg
