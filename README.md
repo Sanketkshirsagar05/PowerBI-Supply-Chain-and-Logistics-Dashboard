@@ -59,5 +59,4 @@ A comprehensive Power BI dashboard for analyzing Procurement, Production, Invent
 ## 👨‍💻 Author
 
 **Sanket Kshirsagar**
-
-⭐ If you found this project useful, please consider giving it a star.
+**sanketkshirsagar05@gmail.com**
