@@ -1,4 +1,4 @@
-# 📦 BLU Products Supply Chain & Logistics Dashboard
+# 📦 Supply Chain & Logistics Dashboard
 
 ## 📌 Overview
 
