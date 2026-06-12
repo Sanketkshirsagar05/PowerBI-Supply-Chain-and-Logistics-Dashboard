@@ -34,7 +34,7 @@ A comprehensive Power BI dashboard for analyzing Procurement, Production, Invent
 
 ### Executive Overview
 
-![Executive](Dashboard%20Screenshot/Executive.png)
+![Executive](https://github.com/Sanketkshirsagar05/PowerBI-Supply-Chain-and-Logistics-Dashboard/blob/main/Dashboard%20ScreenShot/2%20Executive%20Overview.png)
 
 ### Supplier Overview
 
