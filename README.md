@@ -38,11 +38,11 @@ A comprehensive Power BI dashboard for analyzing Procurement, Production, Invent
 
 ### Supplier Overview
 
-![Supplier](Dashboard%20Screenshot/Supplier.png)
+![Supplier](https://github.com/Sanketkshirsagar05/PowerBI-Supply-Chain-and-Logistics-Dashboard/blob/main/Dashboard%20ScreenShot/3%20Supplier%20Overview.png)
 
 ### Production Overview
 
-![Production](Dashboard%20Screenshot/Production.png)
+![Production](https://github.com/Sanketkshirsagar05/PowerBI-Supply-Chain-and-Logistics-Dashboard/blob/main/Dashboard%20ScreenShot/4%20Production%20Overview.png)
 
 ### Inventory Overview
 
