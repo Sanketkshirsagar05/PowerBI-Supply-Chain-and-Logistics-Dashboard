@@ -46,7 +46,7 @@ A comprehensive Power BI dashboard for analyzing Procurement, Production, Invent
 
 ### Inventory Overview
 
-![Inventory](Dashboard%20Screenshot/Inventory.png)
+![Inventory](https://github.com/Sanketkshirsagar05/PowerBI-Supply-Chain-and-Logistics-Dashboard/blob/main/Dashboard%20ScreenShot/5%20Inventory%20Performance.png)
 
 ### Shipment Overview
 
